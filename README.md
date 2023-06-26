@@ -6,7 +6,7 @@ I'm a passionate Python programmer and web developer with a love for Flask. 🐍
 
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/?size=512&id=13441&format=png" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/?size=512&id=108784&format=png" style="padding-right:10px;" />
-<img align="left" alt="flask" width="26px" src="https://img.icons8.com/?size=512&id=MHcMYTljfKOr&format=png" style="padding-right:10px;" />
+<img align="left" alt="flask" width="26px" src="https://img.icons8.com/?size=512&id=5mbMwDZ796xj&format=png" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://img.icons8.com/?size=512&id=74402&format=png" style="padding-right:10px;" />
 <img align="left" alt="selenium" width="26px" src="https://img.icons8.com/?size=512&id=38553&format=png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://img.icons8.com/?size=512&id=22813&format=png" style="padding-right:10px;" />
