@@ -1,9 +1,6 @@
 # Hi there, I'm Abraham 👋 
 
-I'm a passionate Python programmer and web developer with a love for Flask. 🐍 I thrive on crafting interactive and dynamic websites that bring ideas to life. 💻 I enjoy the challenge of delivering seamless experiences through Flask's powerful framework. 🌐 Apart from web development, I also enjoy building automation and web scraping scripts using requests and BeautifulSoup. 🤖 Whether it's creating RESTful APIs, making engaging user interfaces, or scraping data from the web, I'm up for the challenge. Let's connect and collaborate to build something amazing together! 🚀
-
-### My Websites:
-- [LiveArchives](https://livearchives.tv)
+I'm a passionate Python programmer and web developer. 🐍 I thrive on crafting interactive and dynamic websites that bring ideas to life. 👨‍💻 I enjoy the challenge of delivering seamless experiences through Flask's powerful framework. 🌐 Apart from web development, I also enjoy building automation and web scraping scripts using requests and BeautifulSoup. 🤖 Whether it's building a backend, making engaging user interfaces, or scraping data from the web, I'm up for the challenge. Let's connect and collaborate to build something amazing together! 🚀
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/?size=512&id=13441&format=png" style="padding-right:10px;" />
